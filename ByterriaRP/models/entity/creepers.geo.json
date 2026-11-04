@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.creepers",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "unknown_bone",
+					"pivot": [0, 0, 4],
+					"cubes": [
+						{"origin": [-5, 1, -4], "size": [10, 10, 10], "pivot": [0, 4, 1], "rotation": [0, -90, 0], "uv": [0, 0]},
+						{"origin": [-4, 11, -3], "size": [8, 1, 8], "pivot": [0, 4, 1], "rotation": [0, -90, 0], "uv": [24, 21]},
+						{"origin": [-4, 0, -3], "size": [8, 1, 8], "pivot": [0, 4, 1], "rotation": [0, -90, 0], "uv": [0, 20]},
+						{"origin": [5, 2, -3], "size": [1, 8, 8], "pivot": [0, 4, 1], "rotation": [0, -90, 0], "uv": [18, 30]},
+						{"origin": [-6, 2, -3], "size": [1, 8, 8], "pivot": [0, 4, 1], "rotation": [0, -90, 0], "uv": [0, 29]},
+						{"origin": [-4, 2, 6], "size": [8, 8, 1], "pivot": [0, 4, 1], "rotation": [0, -90, 0], "uv": [36, 30]},
+						{"origin": [-4, 2, -5], "size": [8, 8, 1], "pivot": [0, 4, 1], "rotation": [0, -90, 0], "uv": [30, 0]},
+						{"origin": [-7, 4, -1], "size": [1, 4, 4], "pivot": [0, 4, 1], "rotation": [0, -90, 0], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}
