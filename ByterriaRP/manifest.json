@@ -1,0 +1,37 @@
+//bridge-file-version: #3
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "fb73eae4-1425-483c-b81e-bd78d3869ee1",
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ],
+    "version": [
+      0,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "pack.description",
+      "type": "resources",
+      "uuid": "cf0e1d93-027c-4c33-b479-e7a775ff688c",
+      "version": [
+        0,
+        8,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Stonebyte"
+    ],
+    "license": "Remake and maintenance by Stonebyte; original addon by LanceLikesSause Dev."
+  }
+}

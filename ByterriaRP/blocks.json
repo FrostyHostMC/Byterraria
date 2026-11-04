@@ -1,0 +1,483 @@
+//bridge-file-version: #68
+{
+	"byt:shadoworb": {
+		"sound": "wood"
+	},
+	"byt:obsidianbrick": {
+		"sound": "stone",
+		"textures": "obsidianbrick"
+	},
+	"byt:purity_campfire": {
+		"sound": "wood"
+	},
+	"byt:twooden_door": {
+		"sound": "wood"
+	},
+	"byt:purity_chest": {
+		"sound": "wood"
+	},
+	"byt:wooden_table": {
+		"sound": "wood"
+	},
+	"byt:wooden_chair": {
+		"sound": "wood"
+	},
+	"byt:purity_loom": {
+		"sound": "wood"
+	},
+	"byt:sawmill": {
+		"sound": "wood"
+	},
+	"byt:purity_chain": {
+		"sound": "stone"
+	},
+	"byt:purity_cobweb": {
+		"sound": "wood"
+	},
+	"byt:jungle_wood": {
+		"sound": "wood",
+		"textures": "jungle_wood"
+	},
+	"byt:crimsonheart": {
+		"sound": "wood"
+	},
+	"byt:corrupted_wood": {
+		"sound": "wood",
+		"textures": "corrupted_wood"
+	},
+	"byt:crimson_tree": {
+		"sound": "wood"
+	},
+	"byt:tree_top": {
+		"sound": "grass"
+	},
+	"byt:tree_log": {
+		"sound": "wood"
+	},
+	"byt:tree_bottom": {
+		"sound": "wood"
+	},
+	"byt:tree_top_jungle": {
+		"sound": "grass"
+	},
+	"byt:tree_log_jungle": {
+		"sound": "wood"
+	},
+	"byt:tree_bottom_jungle": {
+		"sound": "wood"
+	},
+	"byt:tree_top_crimson": {
+		"sound": "grass"
+	},
+	"byt:tree_log_crimson": {
+		"sound": "wood"
+	},
+	"byt:tree_bottom_crimson": {
+		"sound": "wood"
+	},
+	"byt:tree_top_corruption": {
+		"sound": "grass"
+	},
+	"byt:tree_log_corruption": {
+		"sound": "wood"
+	},
+	"byt:tree_bottom_corruption": {
+		"sound": "wood"
+	},
+	"byt:purity_torch": {
+		"sound": "wood",
+		"textures": "purity_torch"
+	},
+	"byt:purity_wood": {
+		"sound": "wood",
+		"textures": "purity_wood"
+	},
+	"byt:surfacechest": {
+		"sound": "wood",
+		"textures": "surfacechest"
+	},
+	"byt:undergroundchest": {
+		"sound": "wood",
+		"textures": "undergroundchest"
+	},
+	"byt:cavernchest": {
+		"sound": "wood",
+		"textures": "cavernchest"
+	},
+	"byt:dungeonchest_locked": {
+		"sound": "wood",
+		"textures": "dungeonchest_locked"
+	},
+	"byt:dungeonchest_unlocked": {
+		"sound": "wood",
+		"textures": "dungeonchest_unlocked"
+	},
+	"byt:purity_grass": {
+		"sound": "grass",
+		"textures": {
+			"down": "purity_dirt",
+			"side": "purity_grass_side",
+			"up": "purity_grass_top"
+		}
+	},
+	"byt:purity_dirt": {
+		"sound": "gravel",
+		"textures": "purity_dirt"
+	},
+	"byt:purity_stone": {
+		"textures": "purity_stone",
+		"sound": "stone"
+	},
+	"byt:purity_snow": {
+		"textures": "purity_snow",
+		"sound": "gravel"
+	},
+	"byt:purity_sand": {
+		"sound": "sand",
+		"textures": "purity_sand"
+	},
+	"byt:purity_silt": {
+		"sound": "sand",
+		"textures": "purity_silt"
+	},
+	"byt:demoniteblock": {
+		"sound": "stone",
+		"textures": "demoniteblock"
+	},
+	"byt:demoniteore": {
+		"sound": "stone",
+		"textures": "demoniteore"
+	},
+	"byt:junglespores": {
+		"sound": "stone",
+		"textures": "junglespores"
+	},
+	"byt:hellstoneblock": {
+		"sound": "stone",
+		"textures": "hellstoneblock"
+	},
+	"byt:crimtaneblock": {
+		"sound": "stone",
+		"textures": "crimtaneblock"
+	},
+	"byt:mushroom": {
+		"sound": "grass"
+	},
+	"byt:daybloom": {
+		"sound": "grass"
+	},
+	"byt:giant_glowing_mushroom_hat": {
+		"sound": "wood"
+	},
+	"byt:giant_glowing_mushroom_stem": {
+		"sound": "wood"
+	},
+	"byt:mushroom_grass": {
+		"sound": "grass",
+		"textures": {
+			"up": "mushroom_grass_up",
+			"down": "purity_dirt",
+			"side": "mushroom_grass_side"
+		}
+	},
+	"byt:dungeon_shelves": {
+		"sound": "wood",
+		"textures": "dungeon_shelves"
+	},
+	"byt:meteoriteblock": {
+		"sound": "stone",
+		"textures": "meteoriteblock"
+	},
+	"byt:platinumblock": {
+		"sound": "stone",
+		"textures": "platinumblock"
+	},
+	"byt:goldblock": {
+		"sound": "stone",
+		"textures": "goldblock"
+	},
+	"byt:tungstenblock": {
+		"sound": "stone",
+		"textures": "silverblock"
+	},
+	"byt:silverblock": {
+		"sound": "stone",
+		"textures": "silverblock"
+	},
+	"byt:leadblock": {
+		"sound": "stone",
+		"textures": "leadblock"
+	},
+	"byt:ironblock": {
+		"sound": "stone",
+		"textures": "ironblock"
+	},
+	"byt:tinblock": {
+		"sound": "stone",
+		"textures": "tinblock"
+	},
+	"byt:copperblock": {
+		"sound": "stone",
+		"textures": "copperblock"
+	},
+	"byt:crimtaneore": {
+		"textures": "crimtaneore",
+		"sound": "stone"
+	},
+	"byt:meteorite": {
+		"textures": "meteorite",
+		"sound": "stone"
+	},
+	"minecraft:obsidian": {
+		"textures": "obsidian_terraria",
+		"sound": "stone"
+	},
+	"byt:hellstone": {
+		"textures": "hellstone",
+		"sound": "stone"
+	},
+	"byt:crimsand": {
+		"textures": "crimsand",
+		"sound": "sand"
+	},
+	"byt:crimson_cactus": {
+		"textures": "crimson_cactus",
+		"sound": "cloth"
+	},
+	"byt:crimstone": {
+		"textures": "crimstone",
+		"sound": "stone"
+	},
+	"byt:shadewood": {
+		"textures": "shadewood",
+		"sound": "wood"
+	},
+	"byt:copperore": {
+		"textures": "copperore",
+		"sound": "stone"
+	},
+	"byt:tinore": {
+		"textures": "tinore",
+		"sound": "stone"
+	},
+	"byt:leadore": {
+		"textures": "leadore",
+		"sound": "stone"
+	},
+	"byt:ironore": {
+		"textures": "ironore_terraria",
+		"sound": "stone"
+	},
+	"byt:silverore": {
+		"textures": "silverore",
+		"sound": "stone"
+	},
+	"byt:tungstenore": {
+		"textures": "tungstenore",
+		"sound": "stone"
+	},
+	"byt:goldore": {
+		"textures": "goldore_terraria",
+		"sound": "stone"
+	},
+	"byt:platinumore": {
+		"textures": "platinumore",
+		"sound": "stone"
+	},
+	"byt:rubyore": {
+		"textures": "rubyore",
+		"sound": "stone"
+	},
+	"byt:sapphireore": {
+		"textures": "sapphireore",
+		"sound": "stone"
+	},
+	"byt:crystalheart": {
+		"sound": "stone"
+	},
+	"byt:victoriousmushroom": {
+		"textures": "victoriousmushroom",
+		"sound": "grass"
+	},
+	"byt:ash": {
+		"textures": "ash",
+		"sound": "stone"
+	},
+	"byt:pinkbrick": {
+		"textures": "pinkbrick",
+		"sound": "stone"
+	},
+	"byt:pinkbrick_wall": {
+		"textures": "pinkbrick_wall",
+		"sound": "stone"
+	},
+	"byt:pinkbrick_slab": {
+		"textures": "pinkbrick_slab",
+		"sound": "stone"
+	},
+	"byt:greenbrick": {
+		"textures": "greenbrick",
+		"sound": "stone"
+	},
+	"byt:ebonstone": {
+		"textures": "ebonstone",
+		"sound": "stone"
+	},
+	"byt:workbench": {
+		"sound": "wood"
+	},
+	"byt:bottle_station": {
+		"sound": "glass"
+	},
+	"byt:hellforge": {
+		"textures": "hellforge",
+		"sound": "stone"
+	},
+	"byt:demon_alter": {
+		"sound": "stone"
+	},
+	"byt:crimson_alter": {
+		"sound": "stone"
+	},
+	"byt:tfurnace": {
+		"sound": "stone"
+	},
+	"byt:iron_anvil": {
+		"sound": "stone"
+	},
+	"byt:crimson_grass": {
+		"sound": "grass",
+		"textures": {
+			"up": "crimson_grass_up",
+			"down": "purity_dirt",
+			"side": "crimson_grass_side"
+		}
+	},
+	"byt:jungle_grass": {
+		"sound": "grass",
+		"textures": {
+			"up": "jungle_grass_top",
+			"down": "purity_mud",
+			"side": "jungle_grass_side"
+		}
+	},
+	"byt:corrupted_grass": {
+		"sound": "grass",
+		"textures": {
+			"up": "corrupted_grass_up",
+			"down": "purity_dirt",
+			"side": "corrupted_grass_side"
+		}
+	},
+	"byt:crimson_wood": {
+		"sound": "wood",
+		"textures": "crimson_wood"
+	},
+	"byt:graybrick": {
+		"textures": "graybrick",
+		"sound": "stone"
+	},
+	"byt:purity_clay": {
+		"sound": "gravel",
+		"textures": "purity_clay"
+	},
+	"byt:redbrick": {
+		"sound": "stone",
+		"textures": "redbrick"
+	},
+	"byt:purity_candle": {
+		"sound": "wood"
+	},
+	"byt:honey": {
+		"liquid": true,
+		"textures": "honey"
+	},
+	"byt:hive_wall": {
+		"sound": "wood",
+		"textures": "hive_wall"
+	},
+	"byt:hive_block": {
+		"sound": "wood",
+		"textures": "hive_block"
+	},
+	"byt:larva": {
+		"sound": "wood"
+	},
+	"byt:enchantedsword_block": {
+		"sound": "stone"
+	},
+	"byt:purity_cactus_bottom": {
+		"sound": "wood"
+	},
+	"byt:purity_cactus_middle": {
+		"sound": "wood"
+	},
+	"byt:purity_cactus_top": {
+		"sound": "wood"
+	},
+	"byt:cactus_block": {
+		"sound": "wood",
+		"textures": "cactus_block"
+	},
+	"byt:purity_sandstone": {
+		"sound": "stone",
+		"textures": "sandstone"
+	},
+	"byt:purity_ice": {
+		"textures": "purity_ice",
+		"sound": "stone"
+	},
+	"byt:vilemushroom": {
+		"sound": "grass"
+	},
+	"byt:tree_bottom_snow": {
+		"sound": "wood"
+	},
+	"byt:tree_log_snow": {
+		"sound": "wood"
+	},
+	"byt:tree_top_snow": {
+		"sound": "wood"
+	},
+	"byt:snow_wood": {
+		"sound": "wood",
+		"textures": "snow_wood"
+	},
+	"byt:forest_pot": {
+		"sound": "glass",
+		"textures": "forest_pot"
+	},
+	"byt:purity_tall_grass": {
+		"sound": "grass"
+	},
+	"byt:dungeon_mob_spawner": {
+		"sound": "stone",
+		"textures": "dungeon_mob_spawner"
+	},
+	"byt:purity_mud": {
+		"sound": "gravel",
+		"textures": "purity_mud"
+	},
+	"byt:cloud": {
+		"sound": "cloth",
+		"textures": "cloud"
+	},
+	"byt:sunplate": {
+		"sound": "stone",
+		"textures": "sunplate"
+	},
+	"byt:livingwood": {
+		"sound": "wood",
+		"textures": "livingwood"
+	},
+	"byt:leafblock": {
+		"sound": "grass",
+		"textures": "leafblock"
+	},
+	"byt:cactus_toliet": {
+		"sound": "cactus"
+	},
+	"byt:corruption_thorns": {
+		"sound": "grass"
+	}
+}
