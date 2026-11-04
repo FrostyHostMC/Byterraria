@@ -1,0 +1,1156 @@
+//bridge-file-version: #93
+{
+	"resource_pack_name": "bytLLS",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"byt:bookofskulls": {
+			"textures": "textures/items/guns/bookofskulls"
+		},
+		"byt:musket": {
+			"textures": "textures/items/guns/musket"
+		},
+		"byt:undertaker": {
+			"textures": "textures/items/guns/undertaker"
+		},
+		"byt:daybloom": {
+			"textures": "textures/items/block_placers/daybloom"
+		},
+		"byt:bottle_station": {
+			"textures": "textures/items/block_placers/bottle_station"
+		},
+		"byt:purity_campfire": {
+			"textures": "textures/items/block_placers/purity_campfire"
+		},
+		"byt:hellforge": {
+			"textures": "textures/items/block_placers/hellforge"
+		},
+		"byt:beekeeper": {
+			"textures": "textures/items/swords/beekeeper"
+		},
+		"byt:enchantedsword": {
+			"textures": "textures/items/swords/enchantedsword"
+		},
+		"byt:starfury": {
+			"textures": "textures/items/swords/starfury"
+		},
+		"byt:iceblade": {
+			"textures": "textures/items/swords/iceblade"
+		},
+		"byt:richmahoganysword": {
+			"textures": "textures/items/swords/richmahoganysword"
+		},
+		"byt:shadewoodsword": {
+			"textures": "textures/items/swords/shadewoodsword"
+		},
+		"byt:ebonwoodsword": {
+			"textures": "textures/items/swords/ebonwoodsword"
+		},
+		"byt:woodensword": {
+			"textures": "textures/items/swords/woodensword"
+		},
+		"byt:purity_candle": {
+			"textures": "textures/items/block_placers/purity_candle"
+		},
+		"byt:wooden_door": {
+			"textures": "textures/items/block_placers/wooden_door"
+		},
+		"byt:purity_chest": {
+			"textures": "textures/items/block_placers/purity_chest"
+		},
+		"byt:wooden_table": {
+			"textures": "textures/items/block_placers/wooden_table"
+		},
+		"byt:wooden_chair": {
+			"textures": "textures/items/block_placers/wooden_chair"
+		},
+		"byt:purity_cobweb": {
+			"textures": "textures/items/block_placers/purity_cobweb"
+		},
+		"byt:purity_chain": {
+			"textures": "textures/items/block_placers/purity_chain"
+		},
+		"byt:purity_loom": {
+			"textures": "textures/items/block_placers/purity_loom"
+		},
+		"byt:sawmill": {
+			"textures": "textures/items/block_placers/sawmill"
+		},
+		"byt:iron_anvil": {
+			"textures": "textures/items/block_placers/iron_anvil"
+		},
+		"byt:tfurnace": {
+			"textures": "textures/items/block_placers/tfurnace"
+		},
+		"byt:workbench": {
+			"textures": "textures/items/block_placers/workbench"
+		},
+		"byt:silk": {
+			"textures": "textures/items/silk"
+		},
+		"byt:purity_bed": {
+			"textures": "textures/items/purity_bed"
+		},
+		"byt:jungle_wood": {
+			"textures": "textures/items/block_placers/jungle_wood"
+		},
+		"byt:acorn": {
+			"textures": "textures/items/pamobile/acorn"
+		},
+		"byt:victoriousmushroom": {
+			"textures": "textures/items/pamobile/victoriousmushroom"
+		},
+		"byt:crimson_wood": {
+			"textures": "textures/items/block_placers/crimson_wood"
+		},
+		"byt:corrupted_wood": {
+			"textures": "textures/items/block_placers/corrupted_wood"
+		},
+		"byt:purity_wood": {
+			"textures": "textures/items/block_placers/purity_wood"
+		},
+		"byt:guidevoodoodoll": {
+			"textures": "textures/items/pamobile/guidevoodoodoll"
+		},
+		"byt:demonite_helmet": {
+			"textures": "textures/items/armor/demonite_helmet"
+		},
+		"byt:demonite_chestplate": {
+			"textures": "textures/items/armor/demonite_chestplate"
+		},
+		"byt:demonite_greaves": {
+			"textures": "textures/items/armor/demonite_greaves"
+		},
+		"byt:demonitebow": {
+			"textures": "textures/items/guns/demonitebow"
+		},
+		"byt:demoniteaxe": {
+			"textures": "textures/items/axes/demoniteaxe"
+		},
+		"byt:demonitepickaxe": {
+			"textures": "textures/items/pickaxes/demonitepickaxe"
+		},
+		"byt:shadowscale": {
+			"textures": "textures/items/pamobile/shadowscale"
+		},
+		"byt:demonitesword": {
+			"textures": "textures/items/swords/demonitesword"
+		},
+		"byt:demonitebar": {
+			"textures": "textures/items/ingots/demonitebar"
+		},
+		"byt:nightsedge": {
+			"textures": "textures/items/swords/nightsedge"
+		},
+		"byt:bladeofgrass": {
+			"textures": "textures/items/swords/bladeofgrass"
+		},
+		"byt:bezoar": {
+			"textures": "textures/items/pamobile/bezoar"
+		},
+		"byt:stinger": {
+			"textures": "textures/items/pamobile/stinger"
+		},
+		"byt:bottle": {
+			"textures": "textures/items/pamobile/bottle"
+		},
+		"byt:copperaxe": {
+			"textures": "textures/items/axes/copperaxe"
+		},
+		"byt:tinaxe": {
+			"textures": "textures/items/axes/tinaxe"
+		},
+		"byt:leadaxe": {
+			"textures": "textures/items/axes/leadaxe"
+		},
+		"byt:ironaxe": {
+			"textures": "textures/items/axes/ironaxe"
+		},
+		"byt:silveraxe": {
+			"textures": "textures/items/axes/silveraxe"
+		},
+		"byt:tungstenaxe": {
+			"textures": "textures/items/axes/tungstenaxe"
+		},
+		"byt:goldaxe": {
+			"textures": "textures/items/axes/goldaxe"
+		},
+		"byt:platinumaxe": {
+			"textures": "textures/items/axes/platinumaxe"
+		},
+		"byt:crimtaneaxe": {
+			"textures": "textures/items/axes/crimtaneaxe"
+		},
+		"byt:hellstoneaxe": {
+			"textures": "textures/items/axes/hellstoneaxe"
+		},
+		"byt:meteoriteaxe": {
+			"textures": "textures/items/axes/meteoriteaxe"
+		},
+		"byt:ale": {
+			"textures": "textures/items/potions/ale"
+		},
+		"byt:healingpotion": {
+			"textures": "textures/items/potions/healingpotion"
+		},
+		"byt:glowing_mushroom": {
+			"textures": "textures/items/potions/glowing_mushroom"
+		},
+		"byt:regenerationpotion": {
+			"textures": "textures/items/potions/regenerationpotion"
+		},
+		"byt:mushroom": {
+			"textures": "textures/items/pamobile/mushroom"
+		},
+		"byt:aquascepter": {
+			"textures": "textures/items/guns/aquascepter"
+		},
+		"byt:creamsoda": {
+			"textures": "textures/items/potions/creamsoda"
+		},
+		"byt:bone_terraria": {
+			"textures": "textures/items/guns/bone_terraria"
+		},
+		"byt:phoenixblaster": {
+			"textures": "textures/items/guns/phoenixblaster"
+		},
+		"byt:handgun": {
+			"textures": "textures/items/guns/handgun"
+		},
+		"byt:muramasa": {
+			"textures": "textures/items/swords/muramasa"
+		},
+		"byt:golden_key": {
+			"textures": "textures/items/pamobile/golden_key"
+		},
+		"byt:waterbolt": {
+			"textures": "textures/items/guns/waterbolt"
+		},
+		"byt:boomstick": {
+			"textures": "textures/items/guns/boomstick"
+		},
+		"byt:minishark": {
+			"textures": "textures/items/guns/minishark"
+		},
+		"byt:musketball": {
+			"textures": "textures/items/projectiles/musketball"
+		},
+		"byt:flintlockpistol": {
+			"textures": "textures/items/guns/flintlockpistol"
+		},
+		"byt:spacegun": {
+			"textures": "textures/items/guns/spacegun"
+		},
+		"byt:hellstonebow": {
+			"textures": "textures/items/guns/hellstonebow"
+		},
+		"byt:crimtanebow": {
+			"textures": "textures/items/guns/crimtanebow"
+		},
+		"byt:platinumbow": {
+			"textures": "textures/items/guns/platinumbow"
+		},
+		"byt:goldbow": {
+			"textures": "textures/items/guns/goldbow"
+		},
+		"byt:tungstenbow": {
+			"textures": "textures/items/guns/tungstenbow"
+		},
+		"byt:silverbow": {
+			"textures": "textures/items/guns/silverbow"
+		},
+		"byt:ironbow": {
+			"textures": "textures/items/guns/ironbow"
+		},
+		"byt:leadbow": {
+			"textures": "textures/items/guns/leadbow"
+		},
+		"byt:tinbow": {
+			"textures": "textures/items/guns/tinbow"
+		},
+		"byt:copperbow": {
+			"textures": "textures/items/guns/copperbow"
+		},
+		"byt:woodenbow": {
+			"textures": "textures/items/guns/woodenbow"
+		},
+		"byt:woodenarrow": {
+			"textures": "textures/items/projectiles/woodenarrow"
+		},
+		"byt:fallenstars": {
+			"textures": "textures/items/pamobile/fallenstars"
+		},
+		"byt:flamarang": {
+			"textures": "textures/items/guns/flamarang"
+		},
+		"byt:enchantedboomerang": {
+			"textures": "textures/items/guns/enchantedboomerang"
+		},
+		"byt:umbrella": {
+			"textures": "textures/items/accessories/umbrella"
+		},
+		"byt:woodenboomerang": {
+			"textures": "textures/items/guns/woodenboomerang"
+		},
+		"byt:poisonedknife": {
+			"textures": "textures/items/guns/poisonedknife"
+		},
+		"byt:throwingknife": {
+			"textures": "textures/items/guns/throwingknife"
+		},
+		"byt:slimegun": {
+			"textures": "textures/items/guns/slimegun"
+		},
+		"byt:magicmirror": {
+			"textures": "textures/items/accessories/magicmirror"
+		},
+		"byt:bandofregeneration": {
+			"textures": "textures/items/accessories/bandofregeneration"
+		},
+		"byt:lavacharm": {
+			"textures": "textures/items/accessories/lavacharm"
+		},
+		"byt:balloonpufferfish": {
+			"textures": "textures/items/accessories/balloonpufferfish"
+		},
+		"byt:hermesboots": {
+			"textures": "textures/items/accessories/hermesboots"
+		},
+		"byt:aglet": {
+			"textures": "textures/items/accessories/aglet"
+		},
+		"byt:bonepickaxe": {
+			"textures": "textures/items/pickaxes/bonepickaxe"
+		},
+		"byt:zombiearm": {
+			"textures": "textures/items/swords/zombiearm"
+		},
+		"byt:depthmeter": {
+			"textures": "textures/items/accessories/depthmeter"
+		},
+		"byt:cartonofmilk": {
+			"textures": "textures/items/pamobile/cartonofmilk"
+		},
+		"byt:bonesword": {
+			"textures": "textures/items/swords/bonesword"
+		},
+		"byt:grenade": {
+			"textures": "textures/items/weapons/grenade"
+		},
+		"byt:bomb": {
+			"textures": "textures/items/weapons/bomb"
+		},
+		"byt:dynamite": {
+			"textures": "textures/items/weapons/dynamite"
+		},
+		"byt:shuriken": {
+			"textures": "textures/items/weapons/shuriken"
+		},
+		"byt:coppercoin": {
+			"textures": "textures/items/coins/coppercoin"
+		},
+		"byt:coppercoin_pile": {
+			"textures": "textures/items/coins/coppercoin_pile"
+		},
+		"byt:silvercoin": {
+			"textures": "textures/items/coins/silvercoin"
+		},
+		"byt:silvercoin_pile": {
+			"textures": "textures/items/coins/silvercoin_pile"
+		},
+		"byt:goldcoin": {
+			"textures": "textures/items/coins/goldcoin"
+		},
+		"byt:goldcoin_pile": {
+			"textures": "textures/items/coins/goldcoin_pile"
+		},
+		"byt:platinumcoin": {
+			"textures": "textures/items/coins/platinumcoin"
+		},
+		"byt:platinumcoin_pile": {
+			"textures": "textures/items/coins/platinumcoin_pile"
+		},
+		"byt:vertebra": {
+			"textures": "textures/items/pamobile/vertebra"
+		},
+		"byt:bloodyspine": {
+			"textures": "textures/items/pamobile/bloodyspine"
+		},
+		"byt:tissuesample": {
+			"textures": "textures/items/pamobile/tissuesample"
+		},
+		"byt:lens": {
+			"textures": "textures/items/pamobile/lens"
+		},
+		"byt:gel": {
+			"textures": "textures/items/pamobile/gel"
+		},
+		"byt:copperbar": {
+			"textures": "textures/items/ingots/copperbar"
+		},
+		"byt:tinbar": {
+			"textures": "textures/items/ingots/tinbar"
+		},
+		"byt:leadbar": {
+			"textures": "textures/items/ingots/leadbar"
+		},
+		"byt:ironbar": {
+			"textures": "textures/items/ingots/ironbar"
+		},
+		"byt:silverbar": {
+			"textures": "textures/items/ingots/silverbar"
+		},
+		"byt:tungstenbar": {
+			"textures": "textures/items/ingots/tungstenbar"
+		},
+		"byt:platinumbar": {
+			"textures": "textures/items/ingots/platinumbar"
+		},
+		"byt:goldbar": {
+			"textures": "textures/items/ingots/goldbar"
+		},
+		"byt:crimtanebar": {
+			"textures": "textures/items/ingots/crimtanebar"
+		},
+		"byt:meteoritebar": {
+			"textures": "textures/items/ingots/meteoritebar"
+		},
+		"byt:hellstonebar": {
+			"textures": "textures/items/ingots/hellstonebar"
+		},
+		"byt:ruby": {
+			"textures": "textures/items/ingots/ruby"
+		},
+		"byt:sapphire": {
+			"textures": "textures/items/ingots/sapphire"
+		},
+		"byt:cactuspickaxe": {
+			"textures": "textures/items/pickaxes/cactuspickaxe"
+		},
+		"byt:copperpickaxe": {
+			"textures": "textures/items/pickaxes/copperpickaxe"
+		},
+		"byt:tinpickaxe": {
+			"textures": "textures/items/pickaxes/tinpickaxe"
+		},
+		"byt:leadpickaxe": {
+			"textures": "textures/items/pickaxes/leadpickaxe"
+		},
+		"byt:ironpickaxe": {
+			"textures": "textures/items/pickaxes/ironpickaxe"
+		},
+		"byt:silverpickaxe": {
+			"textures": "textures/items/pickaxes/silverpickaxe"
+		},
+		"byt:tungstenpickaxe": {
+			"textures": "textures/items/pickaxes/tungstenpickaxe"
+		},
+		"byt:goldpickaxe": {
+			"textures": "textures/items/pickaxes/goldpickaxe"
+		},
+		"byt:platinumpickaxe": {
+			"textures": "textures/items/pickaxes/platinumpickaxe"
+		},
+		"byt:hellstonepickaxe": {
+			"textures": "textures/items/pickaxes/hellstonepickaxe"
+		},
+		"byt:crimtanepickaxe": {
+			"textures": "textures/items/pickaxes/crimtanepickaxe"
+		},
+		"byt:cactussword": {
+			"textures": "textures/items/swords/cactussword"
+		},
+		"byt:coppersword": {
+			"textures": "textures/items/swords/coppersword"
+		},
+		"byt:tinsword": {
+			"textures": "textures/items/swords/tinsword"
+		},
+		"byt:leadsword": {
+			"textures": "textures/items/swords/leadsword"
+		},
+		"byt:ironsword": {
+			"textures": "textures/items/swords/ironsword"
+		},
+		"byt:silversword": {
+			"textures": "textures/items/swords/silversword"
+		},
+		"byt:tungstensword": {
+			"textures": "textures/items/swords/tungstensword"
+		},
+		"byt:goldsword": {
+			"textures": "textures/items/swords/goldsword"
+		},
+		"byt:platinumsword": {
+			"textures": "textures/items/swords/platinumsword"
+		},
+		"byt:hellstonesword": {
+			"textures": "textures/items/swords/hellstonesword"
+		},
+		"byt:crimtanesword": {
+			"textures": "textures/items/swords/crimtanesword"
+		},
+		"byt:bluephaseblade": {
+			"textures": "textures/items/swords/bluephaseblade"
+		},
+		"byt:slimestaff": {
+			"textures": "textures/items/weapons/slimestaff"
+		},
+		"byt:suspiciouslookingeye": {
+			"textures": "textures/items/pamobile/suspiciouslookingeye"
+		},
+		"byt:slimecrown": {
+			"textures": "textures/items/pamobile/slimecrown"
+		},
+		"byt:goldcrown": {
+			"textures": "textures/items/pamobile/goldcrown"
+		},
+		"byt:lesserhealingpotion": {
+			"textures": "textures/items/potions/lesserhealingpotion"
+		},
+		"byt:lifecrystal": {
+			"textures": "textures/items/pamobile/lifecrystal"
+		},
+		"byt:copper_helmet": {
+			"textures": "textures/items/armor/copper_helmet"
+		},
+		"byt:copper_chestplate": {
+			"textures": "textures/items/armor/copper_chestplate"
+		},
+		"byt:copper_greaves": {
+			"textures": "textures/items/armor/copper_greaves"
+		},
+		"byt:tin_helmet": {
+			"textures": "textures/items/armor/tin_helmet"
+		},
+		"byt:tin_chestplate": {
+			"textures": "textures/items/armor/tin_chestplate"
+		},
+		"byt:tin_greaves": {
+			"textures": "textures/items/armor/tin_greaves"
+		},
+		"byt:lead_helmet": {
+			"textures": "textures/items/armor/lead_helmet"
+		},
+		"byt:lead_chestplate": {
+			"textures": "textures/items/armor/lead_chestplate"
+		},
+		"byt:lead_greaves": {
+			"textures": "textures/items/armor/lead_greaves"
+		},
+		"byt:iron_helmet": {
+			"textures": "textures/items/armor/iron_helmet"
+		},
+		"byt:iron_chestplate": {
+			"textures": "textures/items/armor/iron_chestplate"
+		},
+		"byt:iron_greaves": {
+			"textures": "textures/items/armor/iron_greaves"
+		},
+		"byt:silver_helmet": {
+			"textures": "textures/items/armor/silver_helmet"
+		},
+		"byt:silver_chestplate": {
+			"textures": "textures/items/armor/silver_chestplate"
+		},
+		"byt:silver_greaves": {
+			"textures": "textures/items/armor/silver_greaves"
+		},
+		"byt:tungsten_helmet": {
+			"textures": "textures/items/armor/tungsten_helmet"
+		},
+		"byt:tungsten_chestplate": {
+			"textures": "textures/items/armor/tungsten_chestplate"
+		},
+		"byt:tungsten_greaves": {
+			"textures": "textures/items/armor/tungsten_greaves"
+		},
+		"byt:gold_helmet": {
+			"textures": "textures/items/armor/gold_helmet"
+		},
+		"byt:gold_chestplate": {
+			"textures": "textures/items/armor/gold_chestplate"
+		},
+		"byt:gold_greaves": {
+			"textures": "textures/items/armor/gold_greaves"
+		},
+		"byt:platinum_helmet": {
+			"textures": "textures/items/armor/platinum_helmet"
+		},
+		"byt:platinum_chestplate": {
+			"textures": "textures/items/armor/platinum_chestplate"
+		},
+		"byt:platinum_greaves": {
+			"textures": "textures/items/armor/platinum_greaves"
+		},
+		"byt:hellstone_helmet": {
+			"textures": "textures/items/armor/hellstone_helmet"
+		},
+		"byt:hellstone_chestplate": {
+			"textures": "textures/items/armor/hellstone_chestplate"
+		},
+		"byt:hellstone_greaves": {
+			"textures": "textures/items/armor/hellstone_greaves"
+		},
+		"byt:crimtane_helmet": {
+			"textures": "textures/items/armor/crimtane_helmet"
+		},
+		"byt:crimtane_chestplate": {
+			"textures": "textures/items/armor/crimtane_chestplate"
+		},
+		"byt:crimtane_greaves": {
+			"textures": "textures/items/armor/crimtane_greaves"
+		},
+		"byt:meteorite_helmet": {
+			"textures": "textures/items/armor/meteorite_helmet"
+		},
+		"byt:meteorite_chestplate": {
+			"textures": "textures/items/armor/meteorite_chestplate"
+		},
+		"byt:meteorite_greaves": {
+			"textures": "textures/items/armor/meteorite_greaves"
+		},
+		"byt:wormfood": {
+			"textures": "textures/items/pamobile/wormfood"
+		},
+		"byt:rottenchunk": {
+			"textures": "textures/items/pamobile/rottenchunk"
+		},
+		"byt:vilemushroom": {
+			"textures": "textures/items/pamobile/vilemushroom"
+		},
+		"byt:purity_torch": {
+			"textures": "textures/items/purity_torch"
+		},
+		"byt:empty_bucket": {
+			"textures": "textures/items/empty_bucket"
+		},
+		"byt:honey_bucket": {
+			"textures": "textures/items/honey_bucket"
+		},
+		"byt:bottle_honey": {
+			"textures": "textures/items/potions/bottle_honey"
+		},
+		"byt:thebeesknees": {
+			"textures": "textures/items/guns/thebeesknees"
+		},
+		"byt:beegun": {
+			"textures": "textures/items/guns/bee_gun"
+		},
+		"byt:beenade": {
+			"textures": "textures/items/guns/beenade"
+		},
+		"byt:nectar": {
+			"textures": "textures/items/weapons/nectar"
+		},
+		"byt:beewax": {
+			"textures": "textures/items/pamobile/beewax"
+		},
+		"byt:abeemination": {
+			"textures": "textures/items/pamobile/abeemination"
+		},
+		"byt:hornetstaff": {
+			"textures": "textures/items/weapons/hornetstaff"
+		},
+		"byt:snow_wood": {
+			"textures": "textures/items/block_placers/snow_wood"
+		},
+		"byt:wormholepotion": {
+			"textures": "textures/items/potions/wormholepotion"
+		},
+		"byt:purity_seeds": {
+			"textures": "textures/items/purity_seeds"
+		},
+		"byt:starting_items_package": {
+			"textures": "textures/items/starting_items_package"
+		},
+		"byt:recallpotion": {
+			"textures": "textures/items/potions/recallpotion"
+		},
+		"byt:copperbar_pile": {
+			"textures": "textures/items/bar_piles/copperbar_pile"
+		},
+		"byt:tinbar_pile": {
+			"textures": "textures/items/bar_piles/tinbar_pile"
+		},
+		"byt:leadbar_pile": {
+			"textures": "textures/items/bar_piles/leadbar_pile"
+		},
+		"byt:ironbar_pile": {
+			"textures": "textures/items/bar_piles/ironbar_pile"
+		},
+		"byt:silverbar_pile": {
+			"textures": "textures/items/bar_piles/silverbar_pile"
+		},
+		"byt:tungstenbar_pile": {
+			"textures": "textures/items/bar_piles/tungstenbar_pile"
+		},
+		"byt:platinumbar_pile": {
+			"textures": "textures/items/bar_piles/platinumbar_pile"
+		},
+		"byt:goldbar_pile": {
+			"textures": "textures/items/bar_piles/goldbar_pile"
+		},
+		"byt:crimtanebar_pile": {
+			"textures": "textures/items/bar_piles/crimtanebar_pile"
+		},
+		"byt:demonitebar_pile": {
+			"textures": "textures/items/bar_piles/demonitebar_pile"
+		},
+		"byt:meteoritebar_pile": {
+			"textures": "textures/items/bar_piles/meteoritebar_pile"
+		},
+		"byt:hellstonebar_pile": {
+			"textures": "textures/items/bar_piles/hellstonebar_pile"
+		},
+		"byt:gravitationpotion": {
+			"textures": "textures/items/potions/gravitationpotion"
+		},
+		"byt:bloodytear": {
+			"textures": "textures/items/pamobile/bloodytear"
+		},
+		"byt:goblinbattlestandard": {
+			"textures": "textures/items/pamobile/goblinbattlestandard"
+		},
+		"byt:thiefsknife": {
+			"textures": "textures/items/thiefsknife"
+		},
+		"byt:grapplinghook": {
+			"textures": "textures/items/hooks/grapplinghook"
+		},
+		"byt:livingwoodwand": {
+			"textures": "textures/items/weapons/livingwoodwand"
+		},
+		"byt:leafwand": {
+			"textures": "textures/items/weapons/leafwand"
+		},
+		"byt:crimson_rod": {
+			"textures": "textures/items/weapons/crimson_rod"
+		},
+		"byt:flower_of_fire": {
+			"textures": "textures/items/guns/flower_of_fire"
+		},
+		"byt:restorationpotion": {
+			"textures": "textures/items/potions/restorationpotion"
+		},
+		"byt:pink_gel": {
+			"textures": "textures/items/pamobile/pink_gel"
+		},
+		"byt:obsidianskinpotion": {
+			"textures": "textures/items/potions/obsidianskinpotion"
+		},
+		"byt:shiny_red_ballon": {
+			"textures": "textures/items/accessories/shiny_red_ballon"
+		},
+		"byt:lava_bucket": {
+			"textures": "textures/items/lava_bucket"
+		},
+		"byt:water_bucket": {
+			"textures": "textures/items/water_bucket"
+		},
+		"byt:bug_net": {
+			"textures": "textures/items/bug_net"
+		},
+		"byt:goldfish_item": {
+			"textures": "textures/items/catches/goldfish_item"
+		},
+		"byt:worm_item": {
+			"textures": "textures/items/catches/worm_item"
+		},
+		"byt:bunny_item": {
+			"textures": "textures/items/catches/bunny_item"
+		},
+		"byt:cactus_toliet_item": {
+			"textures": "textures/items/block_placers/cactus_toliet"
+		},
+		"byt:piggy_bank_item": {
+			"textures": "textures/items/block_placers/piggy_bank"
+		},
+		"byt:feather": {
+			"textures": "textures/items/pamobile/feather"
+		},
+		"byt:blinkroot_item": {
+			"textures": "textures/items/block_placers/blinkroot"
+		},
+		"byt:fireblossom_item": {
+			"textures": "textures/items/block_placers/fireblossom"
+		},
+		"byt:deathweed_item": {
+			"textures": "textures/items/block_placers/deathweed"
+		},
+		"byt:moonglow": {
+			"textures": "textures/items/block_placers/moonglow"
+		},
+		"byt:manapotion": {
+			"textures": "textures/items/potions/manapotion"
+		},
+		"byt:lessermanapotion": {
+			"textures": "textures/items/potions/lessermanapotion"
+		},
+		"byt:invisibilitypotion": {
+			"textures": "textures/items/potions/invisibilitypotion"
+		},
+		"byt:ironskinpotion": {
+			"textures": "textures/items/potions/ironskinpotion"
+		},
+		"byt:miningpotion": {
+			"textures": "textures/items/potions/miningpotion"
+		},
+		"byt:antlion_mandible": {
+			"textures": "textures/items/pamobile/antlion_mandible"
+		},
+		"byt:featherfallpotion": {
+			"textures": "textures/items/potions/featherfallpotion"
+		},
+		"byt:terragrim": {
+			"textures": "textures/items/swords/terragrim"
+		},
+		"byt:mana_crystal": {
+			"textures": "textures/items/pamobile/mana_crystal"
+		},
+		"byt:ash_item": {
+			"textures": "textures/items/block_placers/ash"
+		},
+		"byt:cactus_item": {
+			"textures": "textures/items/block_placers/cactus"
+		},
+		"byt:clay_item": {
+			"textures": "textures/items/block_placers/clay"
+		},
+		"byt:cloud_item": {
+			"textures": "textures/items/block_placers/cloud"
+		},
+		"byt:copperore_item": {
+			"textures": "textures/items/block_placers/copperore"
+		},
+		"byt:crimsand_item": {
+			"textures": "textures/items/block_placers/crimsand"
+		},
+		"byt:crimstone_item": {
+			"textures": "textures/items/block_placers/crimstone"
+		},
+		"byt:crimtaneore_item": {
+			"textures": "textures/items/block_placers/crimtaneore"
+		},
+		"byt:demoniteore_item": {
+			"textures": "textures/items/block_placers/demoniteore"
+		},
+		"byt:purity_dirt_item": {
+			"textures": "textures/items/block_placers/purity_dirt"
+		},
+		"byt:ebonstone_item": {
+			"textures": "textures/items/block_placers/ebonstone"
+		},
+		"byt:goldore_item": {
+			"textures": "textures/items/block_placers/goldore"
+		},
+		"byt:graybrick_item": {
+			"textures": "textures/items/block_placers/graybrick"
+		},
+		"byt:hellstone_item": {
+			"textures": "textures/items/block_placers/hellstone"
+		},
+		"byt:hive_block_item": {
+			"textures": "textures/items/block_placers/hive_block"
+		},
+		"byt:purity_ice_item": {
+			"textures": "textures/items/block_placers/purity_ice"
+		},
+		"byt:ironore_item": {
+			"textures": "textures/items/block_placers/ironore"
+		},
+		"byt:junglespores_item": {
+			"textures": "textures/items/block_placers/junglespores"
+		},
+		"byt:leadore_item": {
+			"textures": "textures/items/block_placers/leadore"
+		},
+		"byt:leafblock_item": {
+			"textures": "textures/items/block_placers/leafblock"
+		},
+		"byt:livingwood_item": {
+			"textures": "textures/items/block_placers/livingwood"
+		},
+		"byt:meteorite_item": {
+			"textures": "textures/items/block_placers/meteorite"
+		},
+		"byt:mud_item": {
+			"textures": "textures/items/block_placers/mud"
+		},
+		"byt:obsidianbrick_item": {
+			"textures": "textures/items/block_placers/obsidianbrick"
+		},
+		"byt:platinumore_item": {
+			"textures": "textures/items/block_placers/platinumore"
+		},
+		"byt:redbrick_item": {
+			"textures": "textures/items/block_placers/redbrick"
+		},
+		"byt:purity_sand_item": {
+			"textures": "textures/items/block_placers/purity_sand"
+		},
+		"byt:purity_sandstone_item": {
+			"textures": "textures/items/block_placers/purity_sandstone"
+		},
+		"byt:silverore_item": {
+			"textures": "textures/items/block_placers/silverore"
+		},
+		"byt:purity_snow_item": {
+			"textures": "textures/items/block_placers/purity_snow"
+		},
+		"byt:spikes_item": {
+			"textures": "textures/items/block_placers/spikes"
+		},
+		"byt:purity_stone_item": {
+			"textures": "textures/items/block_placers/purity_stone"
+		},
+		"byt:sunplate_item": {
+			"textures": "textures/items/block_placers/sunplate"
+		},
+		"byt:tinore_item": {
+			"textures": "textures/items/block_placers/tinore"
+		},
+		"byt:tungstenore_item": {
+			"textures": "textures/items/block_placers/tungstenore"
+		},
+		"byt:coppershortsword": {
+			"textures": "textures/items/swords/coppershortsword"
+		},
+		"byt:cloud_in_a_bottle": {
+			"textures": "textures/items/accessories/cloud_in_a_bottle"
+		},
+		"byt:whoopie_cushion": {
+			"textures": "textures/items/novelty/whoopie_cushion"
+		},
+		"byt:gold_chest_item": {
+			"textures": "textures/items/block_placers/gold_chest"
+		},
+		"byt:frozen_chest_item": {
+			"textures": "textures/items/block_placers/frozen_chest"
+		},
+		"byt:ivy_chest_item": {
+			"textures": "textures/items/block_placers/ivy_chest"
+		},
+		"byt:sandstone_chest_item": {
+			"textures": "textures/items/block_placers/sandstone_chest"
+		},
+		"byt:skyware_chest_item": {
+			"textures": "textures/items/block_placers/skyware_chest"
+		},
+		"byt:shadow_chest_item": {
+			"textures": "textures/items/block_placers/shadow_chest"
+		},
+		"byt:living_wood_chest_item": {
+			"textures": "textures/items/block_placers/living_wood_chest"
+		},
+		"byt:rich_mahogany_chest_item": {
+			"textures": "textures/items/block_placers/rich_mahogany_chest"
+		},
+		"byt:shadow_key": {
+			"textures": "textures/items/pamobile/shadow_key"
+		},
+		"byt:spawn_zombie": {
+			"textures": "textures/items/spawn_egg/egg_zombie"
+		},
+		"byt:spawn_skeleton": {
+			"textures": "textures/items/spawn_egg/egg_skeleton"
+		},
+		"byt:spawn_demon_eye": {
+			"textures": "textures/items/spawn_egg/egg_demon_eye"
+		},
+		"byt:spawn_angry_bones": {
+			"textures": "textures/items/spawn_egg/egg_angry_bones"
+		},
+		"byt:spawn_antilon": {
+			"textures": "textures/items/spawn_egg/egg_antilon"
+		},
+		"byt:spawn_arms_dealer": {
+			"textures": "textures/items/spawn_egg/egg_arms_dealer"
+		},
+		"byt:spawn_black_slime": {
+			"textures": "textures/items/spawn_egg/egg_black_slime"
+		},
+		"byt:spawn_blood_crawler": {
+			"textures": "textures/items/spawn_egg/egg_blood_crawler"
+		},
+		"byt:spawn_blood_zombie": {
+			"textures": "textures/items/spawn_egg/egg_blood_zombie"
+		},
+		"byt:spawn_blue_slime": {
+			"textures": "textures/items/spawn_egg/egg_blue_slime"
+		},
+		"byt:spawn_brain_of_cthulhu": {
+			"textures": "textures/items/spawn_egg/egg_brain_of_cthulhu"
+		},
+		"byt:spawn_cave_bat": {
+			"textures": "textures/items/spawn_egg/egg_cave_bat"
+		},
+		"byt:spawn_creepers": {
+			"textures": "textures/items/spawn_egg/egg_creepers"
+		},
+		"byt:spawn_crimera": {
+			"textures": "textures/items/spawn_egg/egg_crimera"
+		},
+		"byt:spawn_cursed_skull": {
+			"textures": "textures/items/spawn_egg/egg_cursed_skull"
+		},
+		"byt:spawn_dark_caster": {
+			"textures": "textures/items/spawn_egg/egg_dark_caster"
+		},
+		"byt:spawn_demolitionist": {
+			"textures": "textures/items/spawn_egg/egg_demolitionist"
+		},
+		"byt:spawn_demon": {
+			"textures": "textures/items/spawn_egg/egg_demon"
+		},
+		"byt:spawn_devourer": {
+			"textures": "textures/items/spawn_egg/egg_devourer"
+		},
+		"byt:spawn_drippler": {
+			"textures": "textures/items/spawn_egg/egg_drippler"
+		},
+		"byt:spawn_dungeon_slime": {
+			"textures": "textures/items/spawn_egg/egg_dungeon_slime"
+		},
+		"byt:spawn_eater_of_souls": {
+			"textures": "textures/items/spawn_egg/egg_eater_of_souls"
+		},
+		"byt:spawn_eye_of_cthulhu": {
+			"textures": "textures/items/spawn_egg/egg_eye_of_cthulhu"
+		},
+		"byt:spawn_face_monster": {
+			"textures": "textures/items/spawn_egg/egg_face_monster"
+		},
+		"byt:spawn_fire_imp": {
+			"textures": "textures/items/spawn_egg/egg_fire_imp"
+		},
+		"byt:spawn_frozen_zombie": {
+			"textures": "textures/items/spawn_egg/egg_frozen_zombie"
+		},
+		"byt:spawn_giant_worm": {
+			"textures": "textures/items/spawn_egg/egg_giant_worm"
+		},
+		"byt:spawn_goblin_archer": {
+			"textures": "textures/items/spawn_egg/egg_goblin_archer"
+		},
+		"byt:spawn_goblin_peon": {
+			"textures": "textures/items/spawn_egg/egg_goblin_peon"
+		},
+		"byt:spawn_goblin_sorcerer": {
+			"textures": "textures/items/spawn_egg/egg_goblin_sorcerer"
+		},
+		"byt:spawn_goblin_thief": {
+			"textures": "textures/items/spawn_egg/egg_goblin_thief"
+		},
+		"byt:spawn_goblin_warrior": {
+			"textures": "textures/items/spawn_egg/egg_goblin_warrior"
+		},
+		"byt:spawn_goldfish": {
+			"textures": "textures/items/spawn_egg/egg_goldfish"
+		},
+		"byt:spawn_green_slime": {
+			"textures": "textures/items/spawn_egg/egg_green_slime"
+		},
+		"byt:spawn_guide": {
+			"textures": "textures/items/spawn_egg/egg_guide"
+		},
+		"byt:spawn_harpy": {
+			"textures": "textures/items/spawn_egg/egg_harpy"
+		},
+		"byt:spawn_hell_bat": {
+			"textures": "textures/items/spawn_egg/egg_hell_bat"
+		},
+		"byt:spawn_hornet": {
+			"textures": "textures/items/spawn_egg/egg_hornet"
+		},
+		"byt:spawn_ice_slime": {
+			"textures": "textures/items/spawn_egg/egg_ice_slime"
+		},
+		"byt:spawn_jungle_slime": {
+			"textures": "textures/items/spawn_egg/egg_jungle_slime"
+		},
+		"byt:spawn_king_slime": {
+			"textures": "textures/items/spawn_egg/egg_king_slime"
+		},
+		"byt:spawn_lava_slime": {
+			"textures": "textures/items/spawn_egg/egg_lava_slime"
+		},
+		"byt:spawn_man_eater": {
+			"textures": "textures/items/spawn_egg/egg_man_eater"
+		},
+		"byt:spawn_merchant": {
+			"textures": "textures/items/spawn_egg/egg_merchant"
+		},
+		"byt:spawn_nurse": {
+			"textures": "textures/items/spawn_egg/egg_nurse"
+		},
+		"byt:spawn_old_man": {
+			"textures": "textures/items/spawn_egg/egg_old_man"
+		},
+		"byt:spawn_pink_slime": {
+			"textures": "textures/items/spawn_egg/egg_pink_slime"
+		},
+		"byt:spawn_purple_slime": {
+			"textures": "textures/items/spawn_egg/egg_purple_slime"
+		},
+		"byt:spawn_queen_bee": {
+			"textures": "textures/items/spawn_egg/egg_queen_bee"
+		},
+		"byt:spawn_red_slime": {
+			"textures": "textures/items/spawn_egg/egg_red_slime"
+		},
+		"byt:spawn_sand_slime": {
+			"textures": "textures/items/spawn_egg/egg_sand_slime"
+		},
+		"byt:spawn_the_hungry": {
+			"textures": "textures/items/spawn_egg/egg_the_hungry"
+		},
+		"byt:spawn_skeletron": {
+			"textures": "textures/items/spawn_egg/egg_skeletron"
+		},
+		"byt:spawn_snatcher": {
+			"textures": "textures/items/spawn_egg/egg_snatcher"
+		},
+		"byt:spawn_spore_skeleton": {
+			"textures": "textures/items/spawn_egg/egg_spore_skeleton"
+		},
+		"byt:spawn_spore_zombie": {
+			"textures": "textures/items/spawn_egg/egg_spore_zombie"
+		},
+		"byt:spawn_the_groom": {
+			"textures": "textures/items/spawn_egg/egg_the_groom"
+		},
+		"byt:spawn_umbrella_slime": {
+			"textures": "textures/items/spawn_egg/egg_umbrella_slime"
+		},
+		"byt:spawn_undead_miner": {
+			"textures": "textures/items/spawn_egg/egg_undead_miner"
+		},
+		"byt:spawn_vulture": {
+			"textures": "textures/items/spawn_egg/egg_vulture"
+		},
+		"byt:spawn_wall_of_flesh": {
+			"textures": "textures/items/spawn_egg/egg_wall_of_flesh"
+		},
+		"byt:spawn_yellow_slime": {
+			"textures": "textures/items/spawn_egg/egg_yellow_slime"
+		},
+		"byt:spawn_queenbee_bee": {
+			"textures": "textures/items/spawn_egg/egg_queenbee_bee"
+		},
+		"byt:spawn_eater_of_worlds": {
+			"textures": "textures/items/spawn_egg/egg_eater_of_worlds"
+		},
+		"byt:golden_ruler": {
+			"textures": "textures/items/extras/golden_ruler"
+		},
+		"byt:demon_scythe": {
+			"textures": "textures/items/guns/demon_scythe"
+		},
+		"byt:spiky_ball": {
+			"textures": "textures/items/weapons/spiky_ball"
+		},
+		"byt:spawn_antlion_charger": {
+			"textures": "textures/items/spawn_egg/egg_antlion_charger"
+		}
+	}
+}
