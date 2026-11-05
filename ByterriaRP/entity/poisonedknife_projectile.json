@@ -1,0 +1,33 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:poisonedknife_projectile",
+			"materials": {
+				"default": "snowball"
+			},
+			"textures": {
+				"default": "textures/items/guns/poisonedknife"
+			},
+			"geometry": {
+				"default": "geometry.item_sprite"
+			},
+			"render_controllers": [
+				"controller.render.item_sprite"
+			],
+			"animations": {
+				"move": "animation.arrow_fire.move"
+			},
+			"scripts": {
+				"pre_animation": [
+					"variable.shake = query.shake_time - query.frame_alpha;",
+					"variable.shake_power = variable.shake > 0.0 ? -Math.sin(variable.shake * 200.0) * variable.shake : 0.0;"
+				],
+				"animate": [
+					"move"
+				]
+			}
+		}
+	}
+}

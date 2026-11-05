@@ -1,0 +1,29 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:woodenboomerang_projectile",
+			"materials": {
+				"default": "snowball"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/woodenboomerang_projectile"
+			},
+			"geometry": {
+				"default": "geometry.woodenboomerang_projectile"
+			},
+			"render_controllers": [
+				"controller.render.item_sprite"
+			],
+			"animations": {
+				"flying": "animation.woodenboomerang_projectile.general"
+			},
+			"scripts": {
+				"animate": [
+					"flying"
+				]
+			}
+		}
+	}
+}

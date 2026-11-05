@@ -1,0 +1,34 @@
+//bridge-file-version: #39
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:harpy",
+			"materials": {
+				"default": "phantom",
+				"invisible": "phantom_invisible"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/harpy"
+			},
+			"geometry": {
+				"default": "geometry.harpy"
+			},
+			"render_controllers": [
+				"controller.render.phantom"
+			],
+			"enable_attachables": true,
+			"animations": {
+				"loop": "animation.harpy.general"
+			},
+			"scripts": {
+				"animate": [
+					"loop"
+				]
+			},
+			"spawn_egg": {
+				"texture": "byt:spawn_harpy"
+			}
+		}
+	}
+}

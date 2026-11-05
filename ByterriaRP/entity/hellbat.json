@@ -1,0 +1,36 @@
+//bridge-file-version: #6
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:hellbat",
+			"materials": {
+				"default": "bat"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/hell_bat"
+			},
+			"geometry": {
+				"default": "geometry.cave_bat"
+			},
+			"scripts": {
+				"scale": 0.35
+			},
+			"animations": {
+				"resting": "animation.bat.resting",
+				"flying": "animation.cave_bat.flying"
+			},
+			"animation_controllers": [
+				{
+					"move": "controller.animation.bat.move"
+				}
+			],
+			"render_controllers": [
+				"controller.render.bat"
+			],
+			"spawn_egg": {
+				"texture": "byt:spawn_hell_bat"
+			}
+		}
+	}
+}

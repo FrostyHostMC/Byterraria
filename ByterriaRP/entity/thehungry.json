@@ -1,0 +1,40 @@
+//bridge-file-version: #44
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:thehungry",
+			"materials": {
+				"default": "zombie"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/thehungry"
+			},
+			"geometry": {
+				"default": "geometry.thehungry"
+			},
+			"particle_effects": {
+				"bounce_effect": "byt:slime_effect"
+			},
+			"render_controllers": [
+				"controller.render.zombie"
+			],
+			"enable_attachables": false,
+			"animation_controllers": [
+				{
+					"phantom_base_pose": "controller.animation.phantom.base_pose"
+				},
+				{
+					"move": "controller.animation.phantom.move"
+				}
+			],
+			"animations": {
+				"phantom_base_pose": "animation.phantom.base_pose",
+				"move": "animation.thehungry.general"
+			},
+	        "spawn_egg": {
+	          "texture": "byt:spawn_the_hungry"
+	        } 
+		}
+	}
+}

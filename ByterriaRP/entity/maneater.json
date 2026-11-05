@@ -1,0 +1,36 @@
+//bridge-file-version: #28
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:maneater",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "zombie"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/snatcher"
+			},
+			"geometry": {
+				"default": "geometry.snatcher"
+			},
+			"scripts": {
+				"animate": [
+					"ctrl"
+				]
+			},
+			"render_controllers": [
+				"controller.render.zombie"
+			],
+			"enable_attachables": true,
+			"animations": {
+				"ctrl": "controller.animation.snatcher",
+				"attack": "animation.snatcher.attack",
+				"idle": "animation.snatcher.idle"
+			},
+		    "spawn_egg": {
+		    	"texture": "byt:spawn_man_eater"
+		    }
+		}
+	}
+}

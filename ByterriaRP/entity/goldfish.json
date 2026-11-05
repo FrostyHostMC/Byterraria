@@ -1,0 +1,25 @@
+//bridge-file-version: #14
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:goldfish",
+			"materials": {
+				"default": "entity"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/goldfish"
+			},
+			"geometry": {
+				"walk": "geometry.goldfish_walking",
+				"swim": "geometry.goldfish_swimming"
+			},
+			"render_controllers": [
+				"controller.render.goldfish"
+			],
+			"spawn_egg": {
+				"texture": "byt:spawn_goldfish"
+			}
+		}
+	}
+}

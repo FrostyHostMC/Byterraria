@@ -1,0 +1,40 @@
+//bridge-file-version: #25
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:queenbee",
+			"materials": {
+				"default": "phantom",
+				"invisible": "phantom_invisible"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/queenbee"
+			},
+			"geometry": {
+				"default": "geometry.queenbee"
+			},
+			"particle_effects": {
+				"wing_dust": "minecraft:phantom_trail_particle"
+			},
+			"render_controllers": [
+				"controller.render.phantom"
+			],
+			"animation_controllers": [
+				{
+					"move": "controller.animation.queenbee"
+				},
+				{
+					"swoop": "controller.animation.queenbee"
+				}
+			],
+			"animations": {
+				"move": "animation.queenbee.general",
+				"swoop": "animation.queenbee.charge"
+			},
+		    "spawn_egg": {
+		    	"texture": "byt:spawn_queen_bee"
+		    }
+		}
+	}
+}

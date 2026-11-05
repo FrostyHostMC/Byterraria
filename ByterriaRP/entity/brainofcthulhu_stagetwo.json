@@ -1,0 +1,37 @@
+//bridge-file-version: #12
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:brainofcthulhu_stagetwo",
+			"materials": {
+				"default": "phantom",
+				"invisible": "phantom_invisible"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/brain_of_cthulhu_stage_two"
+			},
+			"geometry": {
+				"default": "geometry.brain_of_cthulhu_stage_two"
+			},
+			"animations": {
+				"phantom_base_pose": "animation.phantom.base_pose",
+				"move": "animation.brainofcthulhu.fly"
+			},
+			"animation_controllers": [
+				{
+					"phantom_base_pose": "controller.animation.phantom.base_pose"
+				},
+				{
+					"move": "animation.brainofcthulhu.fly"
+				}
+			],
+			"render_controllers": [
+				"controller.render.phantom"
+			],
+			"spawn_egg": {
+				"texture": "byt:spawn_brain_of_cthulhu"
+			}
+		}
+	}
+}

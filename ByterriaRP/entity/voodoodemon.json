@@ -1,0 +1,32 @@
+//bridge-file-version: #8
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "byt:voodoodemon",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/pamobile/voodoo_demon.png"
+			},
+			"geometry": {
+				"default": "geometry.voodoo_demon"
+			},
+			"render_controllers": [
+				"controller.render.zombie"
+			],
+			"animations": {
+				"loop": "animation.demon.flying"
+			},
+			"scripts": {
+				"animate": [
+					"loop"
+				]
+			},
+			"spawn_egg": {
+				"texture": "byt:spawn_demon"
+			}
+		}
+	}
+}
